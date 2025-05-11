@@ -1,8 +1,8 @@
 # CSE 310 - Sprint Time Log
 
-Name:
+Name: Adam Beus
 
-Sprint #:
+Sprint #: 1
 
 ## Instructions
 
@@ -24,22 +24,25 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 ## Time Log
 
-| Date    | Start Time | Category | Description                                       | Total Minutes |
-|---------|------------|:--------:|---------------------------------------------------|:-------------:|
-| 4/28/25 | 2:00       |    IM    | Started researching my project                    |      60       |
-| 4/30/25 | 7:40       |    IM    | Continues, set up environment                     |      80       |
-| 5/7/25  | 7:00       |    IM    | Ensured all functions/entire skeleton was created |      120      |
-| 5/8/25  | 12:00      |    IM    |                                                   |               |
-|         |            |          |                                                   |               |
-|         |            |          |                                                   |               |
-|         |            |          |                                                   |               |
+| Date    | Start Time | Category | Description                                        | Total Minutes |
+|---------|------------|:--------:|----------------------------------------------------|:-------------:|
+| 4/28/25 | 2:00       |   MTG    | Started researching my project                     |      60       |
+| 4/30/25 | 7:40       |    IM    | Continues, set up environment, additional research |      120      |
+| 5/2/25  | 2:00       |   MTG    | Standup meeting                                    |      60       |
+| 5/5/25  | 2:00       |    TP    | Team work day                                      |      60       |
+| 5/6/25  | 12:00      |    TP    | Figured out github, research javascript + use it   |      120      |
+| 5/7/25  | 7:00       |    IM    | Ensured all functions/entire skeleton was created  |      120      |
+| 5/8/25  | 12:00      |    IM    | Finished code                                      |      300      |
+| 5/9/25  | 12:00      |    IM    | Figured out github/readme                          |      60       |
+|         |            |          |                                                    |               |
+|         |            |          |                                                    |               |
 _Note: Add more rows as needed._
 
 ## Sprint Totals
 
-|Categroy                       |Total Time (Hours:Minutes)|
-|-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|Categroy                       | Total Time (Hours:Minutes) |
+|-------------------------------|:--------------------------:|
+|IM - Individual Module         |           10:00            |
+|TP - Team Project              |            4:00            |
+|MTG - Class Meetings           |            4:00            |
+|**TOTAL**                      |           18:00            |
